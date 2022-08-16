@@ -1,0 +1,73 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-color: #121212;
+    margin: 0 !important;
+    color:#fff;
+    font-size: 18px !important;
+}
+
+.p-tabmenu .p-tabmenu-nav .p-tabmenuitem .p-menuitem-link {
+    border: none !important; 
+}
+
+/* .p-component{
+  
+} */
+
+
+.content{
+    background-color: #1e1e1e;
+    border-radius: 4px;
+    padding: 30px;
+    margin: 20px;
+    width: 100%;
+
+}
+.title_content{
+    font-size: 38px;
+    margin-bottom: 10px;
+} 
+.subtitle_content{
+    font-size: 26px !important;
+    font-weight: 500;
+    margin-top: 35px;
+}
+.avatar{
+    width: 14rem;
+    height: 14rem;
+}
+.line{
+    height: 2px !important;
+    background-color: #9FA8DA;
+    margin: 0.9rem 0 !important;
+}
+.p-timeline-event-marker{
+    background-color: #9FA8DA !important;
+}
+.p-timeline-event-connector{
+     background-color: #9FA8DA !important;
+}
+.p-timeline-event-content{
+    font-size: 20px;
+}
+.p-timeline-event {   
+    min-height: 60px !important;
+}
+.check-list {
+  padding-left: 0rem;
+}
+
+.check-list li {
+  position: relative;
+  list-style-type: none;
+  font-size: 18px;
+}
+.check-list-item + .check-list-item{
+    margin-top: 1rem;
+}
+.pi{
+    margin-right: 7px;
+}
+h1{
+    font-weight: 400;
+}
